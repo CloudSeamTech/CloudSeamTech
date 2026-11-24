@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**CloudSeamTech/CloudSeamTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+""Hey to All"" 👋
+At CloudSeamTech, 
+I build free and low-cost labs to help 
+newcomers break into IT. 
+You’ll practice real tasks like 
+cabling a switch, configuring a VLAN, 
+and deploying software. 
+I also share AI prompts and 
+workflows for reading logs, 
+drafting scripts, 
+and documenting fixes, 
+with steps to verify the output yourself.
